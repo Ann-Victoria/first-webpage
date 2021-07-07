@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("/Images/background.jpg");
+}
+h1 {
+  color: lightgreen;
+  text-align: center;
+  font-style: underline;
+  background-color: lightslategray;
+
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%
+}
+ul {
+  background-image: ;
+}
